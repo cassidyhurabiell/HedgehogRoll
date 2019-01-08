@@ -3,8 +3,8 @@ This is a game that I created on Unity. The three scripts are cameraController, 
 
 ### Screenshots of the Game!
 
-# *Start image:*
+##### *Start image:*
 ![image](https://user-images.githubusercontent.com/46334674/50805437-39cbb280-12a7-11e9-8e58-99786de2ab90.PNG)
 
-# *Final image:*
+##### *Final image:*
 ![image](https://user-images.githubusercontent.com/46334674/50805430-39331c00-12a7-11e9-86e7-695cd27298fd.PNG)
